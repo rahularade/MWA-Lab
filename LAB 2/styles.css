@@ -48,7 +48,7 @@ footer {
   color: #fff;
   position: absolute;
   width: 100%;
-  bottom: 0;
+  bottom: -100;
 }
 
 form {
